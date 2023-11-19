@@ -1,0 +1,6 @@
+q p
+-> q 1 Z -> q XZ
+1 1 X -> q XX
+q 0 X -> p X
+p 1 X -> p ε
+p 0 Z -> q Z
